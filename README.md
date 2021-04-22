@@ -1,3 +1,2 @@
-# query-builder-z8p4wo
+# queryBuilder
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/query-builder-z8p4wo)
